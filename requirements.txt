@@ -3,6 +3,7 @@ langchain-openai
 langchain_community
 langchian-core
 langchain-mcp-adapters
+langgraph
 
 mcp
 
